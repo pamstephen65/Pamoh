@@ -3,3 +3,5 @@ Email: pamstephen3282@gmail.com
 SlackName: Pamoh
 
 Tracks: Backend and Design
+
+Courses: Python, PHP, Go and UI/UX.
